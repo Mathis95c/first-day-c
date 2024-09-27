@@ -1,5 +1,6 @@
 # Object files
 *.o
+dzdz.txt
 
 # Libraries
 *.lib
